@@ -14,7 +14,7 @@ My Arch Linux + Hyprland setup.
 | Terminal | kitty |
 | Lock screen | hyprlock |
 | Wallpaper | awww + hyprquickpaper (wallpaper picker) |
-| Theming | 43pr theme engine + matugen (colors from the wallpaper) |
+| Theming | 43pr theme engine (thank you bro) + matugen (colors from the wallpaper) |
 | GTK | custom GTK 3/4 dark theme |
 | Extras | cava, fastfetch, nvim |
 
