@@ -1,0 +1,15 @@
+{
+  "tiltStrength": 3.2,
+  "settingsScale": 1,
+  "bgAlpha": 0.7,
+  "radius": 10,
+  "borderOpacity": 1,
+  "hyprBorderStyle": "full",
+  "hideSettingsIcons": false,
+  "bgImageEnabled": false,
+  "bgImagePath": "",
+  "bgImageOpacity": 1,
+  "bgImageBlur": 0,
+  "bgImageFadeTop": 1,
+  "bgImageFadeBottom": 0
+}

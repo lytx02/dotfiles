@@ -1,0 +1,2 @@
+hl.monitor({output = "HDMI-A-2",mode = "1920x1080@240.00",position = "0x0",scale = 1,transform = 0,disabled = false})
+hl.monitor({output = "HDMI-A-1",mode = "1920x1080@240.00",position = "1920x0",scale = 1,transform = 0,disabled = false})

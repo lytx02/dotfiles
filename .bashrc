@@ -22,3 +22,4 @@ export PATH="$PATH:$GOPATH/bin"
 PS1='\[\e[1;34m\]Light \[\e[1;36m\]\u@\h \[\e[1;35m\]\W \[\e[0m\]\$ '
 alias config='/usr/bin/git --git-dir=/home/hkr_lgt/.dotfiles/ --work-tree=/home/hkr_lgt'
 alias config='/usr/bin/git --git-dir=/home/hkr_lgt/.dotfiles/ --work-tree=/home/hkr_lgt'
+alias fastfetch='command fastfetch; command fastfetch --logo arch --logo-type builtin --logo-color-1 blue --logo-color-2 blue --structure break'
